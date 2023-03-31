@@ -1,0 +1,56 @@
+.header
+{
+    background-color: black;
+    width: 239%;
+    height: 250px;
+}
+button
+{
+    width: 239%;
+    height: 100px;
+    font-size: 60px;
+    font-family: cursive;
+    color:white;
+    text-shadow: 4px 1px 4px #000000;
+    background-repeat: no-repeat:
+}
+.genre1
+{
+    background-image: url("genre1.jpg");
+}
+.genre2
+{
+    background-image: url("genre2.jpg");
+}
+.genre3
+{
+    background-image: url("genre3.png");
+}
+.genre4
+{
+    background-image: url("genre4.jpg");
+}
+.genre5
+{
+    background-image: url("genre5.jpg");
+}
+.genre6
+{
+    background-image: url("genre6.jpg");
+}
+.genre7
+{
+    background-image: url("genre.png");
+}
+.genre8
+{
+    background-image: url("genre8.jpeg");
+}
+.genre9
+{
+    background-image: url("genre9.png");
+}
+.genre10
+{
+    background-image: url("genre10.jpg");
+}

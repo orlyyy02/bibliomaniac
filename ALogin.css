@@ -1,0 +1,76 @@
+body
+{
+	background: url('FillUpBackground.jpg'); 
+	background-size: cover; 
+}
+.log
+{
+	width: 310;
+	height: 270px;
+	padding: 10px 10px;
+	background: rgba(0, 0, 0, 0.5);
+	position: absolute;
+    top: 33%;
+    left:36%;
+}
+.info
+{
+	margin-top: 2%;
+	margin-left: 95%;
+	font-size: 25px;
+	background: rgba(0, 0, 0, 0.2);
+	color:white;
+	border-radius: 8px;
+	border-color: white;
+}
+p
+{
+	font-size: 55px;
+	margin-left: -3.5%;
+	padding: 0 0 10px;
+	color: white;
+	text-align: center;
+	text-shadow: 5px 1px 5px #000000;
+}
+h1
+{
+	padding: 0 0 10px;
+	margin: 0;
+	color: white;
+	text-align: center;
+}
+h2
+{
+	margin: 0;
+	font-weight:bold;
+	color: white;
+}
+.email, .pass, .login
+{
+	width: 100%;
+	margin-bottom: 20px;
+}
+.email, .pass
+{
+	border: none;
+	border-bottom: 1px solid #fff;
+	background: transparent;
+	height: 40px;
+	color: #fff;
+	font-size: 16px;
+}
+.login
+{
+	height: 40px;
+	color: black;
+	font-size: 16px;
+	background: white;
+	border-radius: 20px;
+	border: 1px solid black;
+}
+.login:hover
+{
+	background:black;
+	color:white;
+	border: 1px solid white;
+}

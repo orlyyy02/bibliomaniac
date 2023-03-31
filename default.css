@@ -1,0 +1,53 @@
+body{
+    background-image: url("FillUpBackground.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .admin {
+        position: absolute; 
+        left:33%; 
+        top:45%;
+        
+    }
+    .design
+    {
+        height: 67px;
+        width: 200px;
+        font-size: 50px;
+        background: white;
+        border-radius: 8px;	
+        border: 1px solid black;
+    }
+    .user{
+        position: absolute; 
+        left:50%; 
+        top:45%;
+    }
+    .admin:hover
+    {	
+        background:black;
+        color:white;
+        border: 1px solid white;
+    }
+    .user:hover
+    {	
+        background:black;
+        color:white;
+        border: 1px solid white;
+    }
+    .info{
+        position: absolute;
+        top:3%;
+        left:95%; 
+        font-size: 25px;
+        background: rgba(0, 0, 0, 0.2);
+        color:white;
+        border-radius: 8px;
+        border-color: white;
+    }
+    h1
+    {
+        color:white;
+        margin-top: 18%;
+        text-shadow: 5px 1px 5px #000000;
+    }

@@ -1,0 +1,110 @@
+body
+{
+    background: url('FillUpBackground.jpg'); 
+    background-size: cover; 
+}
+.center
+{
+    width: 350px;
+    height: 300px;
+    padding: 10px 10px;
+    background: rgba(0, 0, 0, 0.5);
+    margin-top: -3%;
+    margin-left:36%;
+}
+.center1
+{
+    width: 450px;
+    height: 450px;
+    padding: 10px 10px;
+    background: rgba(0, 0, 0, 0.5);
+    margin-top: 0%;
+    margin-left:31%;
+}
+.info{
+    margin-top: 2%;
+	margin-left: 95%;
+    font-size: 25px;
+    background: rgba(0, 0, 0, 0.2);
+    color:white;
+    border-radius: 8px;
+    border-color: white;
+}
+.a
+{
+    margin-top: 3%;
+}
+.b
+{
+	margin-top: -3%;
+	margin-left: -3.5%;
+}
+.b, .a{
+    font-size: 55px;
+    padding: 0 0 10px;
+    color: white;
+    text-align: center;
+    text-shadow: 5px 1px 5px #000000;
+}
+h1
+{
+    padding: 0 0 10px;
+    margin: 0;
+    color: white;
+    text-align: center;
+}
+h2
+{
+    margin: 0;
+    font-weight:bold;
+    color: white;
+}
+.email2, .pass2, .name, .confirmPass, .payment, .signup2
+{
+    width: 100%;
+    margin-bottom: 5px;
+}
+.email, .pass
+{
+    width: 100%;
+    margin-bottom: 5px;
+}
+.email, .email2, .pass, .pass2, .name, .confirmPass, .payment
+{
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    height: 40px;
+    color: #fff;
+    font-size: 16px;
+}
+.login, .signUp, .signup2
+{
+    height: 35px;
+    color: black;
+    font-size: 16px;
+    background: white;
+    border-radius: 20px;
+    border: 1px solid black;
+}
+.login:hover, .signUp:hover, .signup2:hover
+{
+    background:black;
+    color:white;
+    border: 1px solid white;
+}
+.login{
+    width: 350px;
+    margin-top:4%;
+}
+.signUp
+{
+    width: 450px;
+    margin-top: -1%;
+}
+.signup2{
+    width: 350px;
+}
+p{
+    color:white;
+}
